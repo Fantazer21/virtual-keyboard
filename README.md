@@ -2,7 +2,7 @@ Virtual keyboard для [RS School](https://rs.school/)
 
 ![](------)
 
-[Готовый Virtual keyboard](https://mauta.github.io/virtual-keyboard/virtual-keyboard/) 
+[Готовый Virtual keyboard](https://Fantazer21.github.io/virtual-keyboard/virtual-keyboard/) 
 
 Проект по созданию виртуальной клавиатуры.
 
