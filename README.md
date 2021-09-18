@@ -1,6 +1,6 @@
 Virtual keyboard для [RS School](https://rs.school/)
 
-![](------)
+![Result](https://fantazer21.github.io/virtual-keyboard/)
 
 [Готовый Virtual keyboard](https://Fantazer21.github.io/virtual-keyboard/virtual-keyboard/) 
 
